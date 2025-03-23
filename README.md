@@ -67,5 +67,5 @@ MovieLensCapstone/
 ---
 
 **Author:** Brenda O’Kane  
-**Module:** 20 – Capstone  
+**Module:**  Capstone  
 **Project:** Capstone_MovieLens
